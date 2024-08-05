@@ -4,7 +4,6 @@
 ### STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajju0617&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajju0617&layout=compact)](https://github.com/hajju0617/github-readme-stats)
-<div align=center><h1>📚 STACKS</h1></div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>

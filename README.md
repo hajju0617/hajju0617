@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhajju0617%2Fhit-counter&count_bg=%23389EAC&title_bg=%23000000&icon=bitrise.svg&icon_color=%23FFFFFF&title=%5E_%5E&edge_flat=true)](https://hits.seeyoufarm.com)<p align='left'></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hajju0617&theme=graywhite)
 ### STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajju0617&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajju0617&layout=compact)](https://github.com/hajju0617/github-readme-stats)

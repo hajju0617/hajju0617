@@ -4,7 +4,7 @@
 - **Java, MariaDB, Spring Boot**
 
 ### 🌱 Currently Learning
-- **CS** : 컴퓨터 과학 학습 중.
+- **CS** : 학습 중.
 - **Front** : HTML (기초 학습 중), CSS, JS (추후 학습 예정)
 
 ### 🛠️ Experience

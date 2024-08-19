@@ -8,8 +8,9 @@
 - **Front** : HTML (기초 학습 중), CSS, JS (추후 학습 예정)
 
 ### 🛠️ Experience
-- **Spring Security**와 **OAuth2**: 인증과 인가 관련 프로젝트 경험
-- **Redis**: 이메일 인증으로 프로젝트 내에서 경험.
+- **Spring Security**,**OAuth2** : 인증과 인가 관련 프로젝트 경험
+- **Redis** : 이메일 인증으로 프로젝트 내에서 경험.
+- **Docker** : 프로젝트를 배포하는 과정에서 간단한 명령어 사용.
 
 ### 🔎Basic Knowledge
   - **Python**: 기초 학습

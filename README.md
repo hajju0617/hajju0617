@@ -4,6 +4,7 @@
 - **Java, MariaDB, Spring Boot**
   - Java : 자바의 정석 교재를 통해서 먼저 공부 하였고 Inflearn에서 김영한 선생님 강의를 통해 복습 중입니다.
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-first' target='_blank'>Java_study_kimyounghan_first</a>
+    - <a href='https://github.com/hajju0617/java-study-kimyounghan-basic' target='_blank'>Java_study_kimyounghan_basic</a>
     - <a href='https://github.com/hajju0617/java-study' target='_blank'>Java_study</a>
     
   - SQL : MySQL Workbench, HeidiSQL 프로그램을 사용해봤고 지속적으로 복습하고 있습니다.

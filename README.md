@@ -11,13 +11,17 @@
   - Spring Boot : KDT 프로젝트 이후 View를 활용해서 공부하고 있습니다. 또한 Inflearn을 통해 김영한 선생님 강의로 학습하고 있습니다.
     - <a href='https://github.com/hajju0617/springboot-start-kimyounghan' target='_blank'>Springboot_start_kimyounghan</a>
     - <a href='https://github.com/hajju0617/springboot_3' target='_blank'>Springboot_3</a>
-</a> 
+</a>
 
 ### 🌱 Currently Learning
 - **CS** : 학습 중.
   - <a href='https://velog.io/@hajju' target='_blank'>TechBlog</a>
 - **Front** : HTML (기초 학습 중), CSS, JS (추후 학습 예정)
   - <a href='https://github.com/hajju0617/html_css_javascript' target='_blank'>Front_end</a>
+
+### KDT Project
+- <a href='https://github.com/GukSense/FirstProject' target='_blank'>1차 프로젝트 - 일정관리</a>
+- <a href='https://github.com/hajju0617/gajigaji' target='_blank'>2차 프로젝트 - 소모임</a>
 
 ### 🛠️ Experience
 - **Spring Security**,**OAuth2** : 인증과 인가 관련 프로젝트 경험

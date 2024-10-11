@@ -20,8 +20,9 @@
   - <a href='https://github.com/hajju0617/html_css_javascript' target='_blank'>Front_end</a>
 
 ### 🗂️ KDT Project
-- <a href='https://github.com/GukSense/FirstProject' target='_blank'>1차 프로젝트 - 일정관리</a>
-- <a href='https://github.com/hajju0617/gajigaji' target='_blank'>2차 프로젝트 - 소모임</a>
+- <a href='https://github.com/hajju0617/gajigaji' target='_blank'>최종 프로젝트 - 소모임</a>
+- <a href='https://github.com/GukSense/FirstProject' target='_blank'>첫 프로젝트 - 일정관리</a>
+
 
 ### 🛠️ Experience
 - **Spring Security**,**OAuth2** : 인증과 인가 관련 프로젝트 경험

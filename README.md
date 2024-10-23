@@ -1,7 +1,7 @@
 ## 안녕하세요!
 
 ### 🔧 Main Skills
-- **Java, MariaDB, Spring Boot**
+- **Java, SQL, Spring Boot**
   - Java : 자바의 정석 교재로 먼저 공부 하고, Inflearn에서 김영한 선생님 강의를 통해 복습 중입니다.
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-first' target='_blank'>Java_study_kimyounghan_first</a>
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-basic' target='_blank'>Java_study_kimyounghan_basic</a>

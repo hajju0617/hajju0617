@@ -16,7 +16,7 @@
 ### 🌱 Currently Learning
 - **CS** : 학습 중.
   - <a href='https://velog.io/@hajju' target='_blank'>TechBlog</a>
-- **Front** : HTML (기초 학습 중), CSS, JS (추후 학습 예정)
+- **Front** : HTML, CSS, JS
   - <a href='https://github.com/hajju0617/html_css_javascript' target='_blank'>Front_end</a>
 
 ### 🗂️ KDT Project

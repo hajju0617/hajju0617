@@ -2,22 +2,17 @@
 
 ### 🔧 Main Skills
 - **Java, SQL, Spring Boot**
-  - Java : 자바의 정석 교재로 먼저 공부 하고, Inflearn에서 김영한 선생님 강의를 통해 복습 중입니다.
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-first' target='_blank'>Java_study_kimyounghan_first</a>
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-basic' target='_blank'>Java_study_kimyounghan_basic</a>
     - <a href='https://github.com/hajju0617/java-study' target='_blank'>Java_study</a>
-    
-  - SQL : MySQL Workbench, HeidiSQL 프로그램을 사용해봤고 지속적으로 복습하고 있습니다.
-  - Spring Boot : KDT 프로젝트 이후 View를 활용해서 공부하고 있습니다. 또한 Inflearn을 통해 김영한 선생님 강의로 학습하고 있습니다.
+  - SQL
+  - Spring Boot
     - <a href='https://github.com/hajju0617/springboot-start-kimyounghan' target='_blank'>Springboot_start_kimyounghan</a>
     - <a href='https://github.com/hajju0617/springboot_3' target='_blank'>Springboot_3</a>
-</a>
 
 ### 🌱 Currently Learning
-- **CS** : 학습 중.
-  - <a href='https://velog.io/@hajju' target='_blank'>TechBlog</a>
-- **Front** : HTML, CSS, JS
-  - <a href='https://github.com/hajju0617/html_css_javascript' target='_blank'>Front_end</a>
+- **CS** : <a href='https://velog.io/@hajju' target='_blank'>TechBlog</a>
+- **Front** : HTML, CSS, JS <a href='https://github.com/hajju0617/html_css_javascript' target='_blank'>(Front_end)</a>
 
 ### 🗂️ KDT Project
 - <a href='https://github.com/hajju0617/gajigaji' target='_blank'>최종 프로젝트 - 소모임</a>

@@ -8,7 +8,7 @@
   - SQL
   - Spring Boot
     - <a href='https://github.com/hajju0617/springboot-start-kimyounghan' target='_blank'>Springboot_start_kimyounghan</a>
-    - <a href='https://github.com/hajju0617/springboot_3' target='_blank'>Springboot_3</a>
+    - <a href='https://github.com/hajju0617/article-comment' target='_blank'>article_comment</a>
 
 ### 🌱 Currently Learning
 - **CS** : <a href='https://velog.io/@hajju' target='_blank'>TechBlog</a>

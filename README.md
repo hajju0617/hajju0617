@@ -2,9 +2,10 @@
 
 ### 🔧 Main Skills
 - **Java, SQL, Spring Boot**
+  - Java
+    - <a href='https://github.com/hajju0617/java-study' target='_blank'>Java_study</a>
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-first' target='_blank'>Java_study_kimyounghan_first</a>
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-basic' target='_blank'>Java_study_kimyounghan_basic</a>
-    - <a href='https://github.com/hajju0617/java-study' target='_blank'>Java_study</a>
   - SQL
   - Spring Boot
     - <a href='https://github.com/hajju0617/springboot-start-kimyounghan' target='_blank'>Springboot_start_kimyounghan</a>

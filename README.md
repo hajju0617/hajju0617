@@ -29,8 +29,6 @@
   - **Python**: 기초 학습
 
 
-
-### STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajju0617&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajju0617&layout=donut)](https://github.com/hajju0617/github-readme-stats)
 

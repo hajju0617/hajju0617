@@ -7,6 +7,7 @@
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-first' target='_blank'>Java_study_kimyounghan_first</a>
     - <a href='https://github.com/hajju0617/java-study-kimyounghan-basic' target='_blank'>Java_study_kimyounghan_basic</a>
   - SQL
+    - SQLD 취득
   - Spring Boot
     - <a href='https://github.com/hajju0617/springboot-start-kimyounghan' target='_blank'>Springboot_start_kimyounghan</a>
     - <a href='https://github.com/hajju0617/article-comment' target='_blank'>article_comment</a>

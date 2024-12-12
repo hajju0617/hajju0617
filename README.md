@@ -6,7 +6,7 @@
 
 ### **🔧 Main Skills**
 - **Java, DataBase, Spring Boot**
-    - Java : 자바의 정석 교재를 통해서 먼저 공부 했고 Inflearn에서 김영한 선생님 강의를 통해 학습&복습 중입니다.
+    - Java : 자바의 정석 책을 활용해서 공부 했고 Inflearn에서 김영한 선생님 강의를 통해 학습&복습 중입니다.
         - <a href="https://github.com/hajju0617/java-study">java-jungsuk-study</a>
         - <a href="https://github.com/hajju0617/java-study-kimyounghan-basic">java-study-kimyounghan-basic</a>
         - <a href="https://github.com/hajju0617/java-study-kimyounghan-first">java-study-kimyounghan-first</a>

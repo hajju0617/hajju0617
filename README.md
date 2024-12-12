@@ -1,5 +1,5 @@
 ## 고여있는 물웅덩이 보단 끊임없이 변화하는 바다가 좋은 개발자.
----
+
 ## 기술
 ### 📚 기술 블로그.
 - <a href="https://velog.io/@hajju/posts?tag=computer-science">블로그</a>
@@ -17,14 +17,14 @@
         - <a href="https://github.com/hajju0617/article-comment">article-comment</a>
         - <a href="https://github.com/hajju0617/springboot-start-kimyounghan">springboot-start-kimyounghan</a>
 
-### **🌱** Sub Skills
-- HTML, CSS, JavaScript, Python
+### **🌱 Sub Skills**
+- **HTML, CSS, JavaScript, Python**
     - HTML, CSS, JavaScript (고경희) 책을 통해 공부 중입니다.
         - <a href="https://github.com/hajju0617/html_css_javascript">html_css_javascript</a>
     - Python : 혼자 공부하는 파이썬
 
 ### 🔍 **Experience or Basic Knowledge**
-- Redis, Docker, Microsoft Azure
+- **Redis, Docker, Microsoft Azure**
     - Redis :  최종 프로젝트에서 사용자 이메일 인증, 비밀번호 변경 기능 구현할 때 사용.
     - Docker : 최종 프로젝트에서 배포할 때 간단한 명령어 사용.
     - Microsoft Azure : <a href="https://velog.io/@hajju/series/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85Cloud-Computing">클라우드 컴퓨팅.</a>

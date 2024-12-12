@@ -7,20 +7,20 @@
 ### **🔧 Main Skills**
 - **Java, DataBase, Spring Boot**
     - Java : 자바의 정석 교재를 통해서 먼저 공부 했고 Inflearn에서 김영한 선생님 강의를 통해 학습&복습 중입니다.
-        - https://github.com/hajju0617/java-study
-        - https://github.com/hajju0617/java-study-kimyounghan-basic
-        - https://github.com/hajju0617/java-study-kimyounghan-first
+        - <a href="https://github.com/hajju0617/java-study">java-jungsuk-study</a>
+        - <a href="https://github.com/hajju0617/java-study-kimyounghan-basic">java-study-kimyounghan-basic</a>
+        - <a href="https://github.com/hajju0617/java-study-kimyounghan-first">java-study-kimyounghan-first</a>
     - SQL : SQLD 자격증 취득.
         - MySQL Workbench, HeidiSQL, DBeaver(Oracle)
     - Spring Boot : KDT국비 과정 이후에 시중에 나와있는 책을 구매하여 좀 더 체계적으로 학습하고 있습니다.  또한 Inflearn을 통해 김영한 선생님 강의로 학습하고 있습니다.
-        - https://github.com/hajju0617/spring-boot-board
-        - https://github.com/hajju0617/article-comment
-        - https://github.com/hajju0617/springboot-start-kimyounghan
+        - <a href="https://github.com/hajju0617/spring-boot-board">spring-boot-board</a>
+        - <a href="https://github.com/hajju0617/article-comment">article-comment</a>
+        - <a href="https://github.com/hajju0617/springboot-start-kimyounghan">springboot-start-kimyounghan</a>
 
 ### **🌱** Sub Skills
 - HTML, CSS, JavaScript, Python
     - HTML, CSS, JavaScript (고경희) 책을 통해 공부 중입니다.
-        - https://github.com/hajju0617/html_css_javascript
+        - <a href="https://github.com/hajju0617/html_css_javascript">html_css_javascript</a>
     - Python : 혼자 공부하는 파이썬
 
 ### 🔍 **Experience or Basic Knowledge**
@@ -38,11 +38,11 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 

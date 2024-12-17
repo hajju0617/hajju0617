@@ -23,6 +23,10 @@
         - <a href="https://github.com/hajju0617/html_css_javascript">html_css_javascript</a>
     - Python : 혼자 공부하는 파이썬
 
+### **KDT 프로젝트**
+- <a href="https://github.com/hajju0617/gajigaji">최종 프로젝트.</a>
+- <a href="https://github.com/hajju0617/FirstProject">첫 프로젝트.</a>
+
 ### 🔍 **Experience or Basic Knowledge**
 - **Redis, Docker, Microsoft Azure**
     - Redis :  최종 프로젝트에서 사용자 이메일 인증, 비밀번호 변경 기능 구현할 때 사용.

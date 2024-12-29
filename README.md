@@ -6,22 +6,22 @@
 
 ### **🔧 Main Skills**
 - **Java, DataBase, Spring Boot**
-    - Java : 자바의 정석 책을 활용해서 공부 했고 Inflearn에서 김영한 선생님 강의를 통해 학습&복습 중입니다.
-        - <a href="https://github.com/hajju0617/java-study">java-jungsuk-study</a>
-        - <a href="https://github.com/hajju0617/java-study-kimyounghan-basic">java-study-kimyounghan-basic</a>
-        - <a href="https://github.com/hajju0617/java-study-kimyounghan-first">java-study-kimyounghan-first</a>
-    - SQL : SQLD 자격증 취득.
-        - MySQL Workbench, HeidiSQL, DBeaver(Oracle)
-    - Spring Boot : KDT국비 과정 이후에 시중에 나와있는 책을 구매하여 좀 더 체계적으로 학습하고 있습니다.  또한 Inflearn을 통해 김영한 선생님 강의로 학습하고 있습니다.
-        - <a href="https://github.com/hajju0617/spring-boot-board">spring-boot-board</a>
-        - <a href="https://github.com/hajju0617/article-comment">article-comment</a>
-        - <a href="https://github.com/hajju0617/springboot-start-kimyounghan">springboot-start-kimyounghan</a>
+  - Java
+    - <a href="https://github.com/hajju0617/java-study">java-jungsuk-study</a>
+    - <a href="https://github.com/hajju0617/java-study-kimyounghan-basic">java-study-kimyounghan-basic</a>
+    - <a href="https://github.com/hajju0617/java-study-kimyounghan-first">java-study-kimyounghan-first</a>
+  - SQL : SQLD 자격증 취득.
+    - MySQL Workbench, HeidiSQL, DBeaver(Oracle)
+  - Spring Boot
+    - <a href="https://github.com/hajju0617/spring-boot-board">spring-boot-board</a>
+    - <a href="https://github.com/hajju0617/article-comment">article-comment</a>
+    - <a href="https://github.com/hajju0617/springboot-start-kimyounghan">springboot-start-kimyounghan</a>
 
 ### **🌱 Sub Skills**
 - **HTML, CSS, JavaScript, Python**
-    - HTML, CSS, JavaScript (고경희) 책을 통해 공부 중입니다.
-        - <a href="https://github.com/hajju0617/html_css_javascript">html_css_javascript</a>
-    - Python : 혼자 공부하는 파이썬
+  - HTML, CSS, JavaScript
+    - <a href="https://github.com/hajju0617/html_css_javascript">html_css_javascript</a>
+  - Python : 혼자 공부하는 파이썬
 
 ### **🗂️KDT 프로젝트**
 - <a href="https://github.com/hajju0617/gajigaji">최종 프로젝트.</a>

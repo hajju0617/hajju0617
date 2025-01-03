@@ -1,8 +1,9 @@
-## 고여있는 물웅덩이 보단 끊임없이 변화하는 바다가 좋은 개발자.
+## 끊임없이 변화하는 바다가 좋은 개발자.
 
 ## 기술
 ### 📚 기술 블로그.
-- <a href="https://velog.io/@hajju/posts?tag=computer-science">블로그</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hajju)](https://velog.io/@hajju)
+- <a href="https://velog.io/@hajju/posts?tag=computer-science">Velog</a>
 
 ### **🔧 Main Skills**
 - **Java, DataBase, Spring Boot**

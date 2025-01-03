@@ -1,9 +1,8 @@
 ## 끊임없이 변화하는 바다가 좋은 개발자.
 
-## 기술
+## Tech
 ### 📚 기술 블로그.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hajju)](https://velog.io/@hajju)
-- <a href="https://velog.io/@hajju/posts?tag=computer-science">Velog</a>
 
 ### **🔧 Main Skills**
 - **Java, DataBase, Spring Boot**

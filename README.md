@@ -2,7 +2,7 @@
 
 ## Tech
 ### 📚 기술 블로그.
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hajju)](https://velog.io/@hajju)
+- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hajju)](https://velog.io/@hajju)
 
 ### **🔧 Main Skills**
 - **Java, DataBase, Spring Boot**

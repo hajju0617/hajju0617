@@ -11,7 +11,7 @@
     - <a href="https://github.com/hajju0617/java-study-kimyounghan-basic">java-study-kimyounghan-basic</a>
     - <a href="https://github.com/hajju0617/java-study-kimyounghan-first">java-study-kimyounghan-first</a>
   - SQL : SQLD 자격증 취득.
-    - MySQL Workbench, HeidiSQL, DBeaver(Oracle)
+    - MySQL, MariaDB, Oracle
   - Spring Boot
     - <a href="https://github.com/hajju0617/spring-boot-board">spring-boot-board</a>
     - <a href="https://github.com/hajju0617/article-comment">article-comment</a>

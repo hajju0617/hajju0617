@@ -9,7 +9,7 @@
 
  
 ### **🌱 Sub Skills**
-- **HTML, CSS, JavaScript, Python**
+- **HTML, Python**
 
 ### **🗂️KDT 프로젝트**
 - <a href="https://github.com/hajju0617/gajigaji">최종 프로젝트.</a>

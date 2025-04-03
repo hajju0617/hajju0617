@@ -1,5 +1,5 @@
 ## 끊임없이 변화하는 바다가 좋은 개발자.
-
+- [<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/hajju0617/1c4e4679a7a08081aea4fe38fc41b63b)
 
 ### 📚 기술 블로그.
 - [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hajju)](https://velog.io/@hajju)

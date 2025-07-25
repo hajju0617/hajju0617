@@ -12,8 +12,8 @@
 - **HTML, CSS, JavaScript, Python**
 
 ### **🗂️KDT 프로젝트**
-- <a href="https://github.com/hajju0617/gajigaji">최종 프로젝트</a>
-- <a href="https://github.com/hajju0617/FirstProject">첫 프로젝트</a>
+- <a href="https://github.com/hajju0617/gajigaji">가까운 지역, 가까운 지인 소모임 최종 프로젝트</a>
+- <a href="https://github.com/hajju0617/FirstProject">Todo 리스트 프로젝트</a>
 
 ### 🔍 **Experience or Basic Knowledge**
 - **Redis, Docker, Microsoft Azure**
